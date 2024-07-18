@@ -1,0 +1,5 @@
+package com.ahmaddudayef.flutter_playground
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
